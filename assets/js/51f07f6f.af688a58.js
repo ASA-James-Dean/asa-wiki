@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7596],{6334:(e,t,c)=>{c.r(t),c.d(t,{default:()=>n});var s=c(6540),u=c(4848);function n(){const[e,t]=(0,s.useState)("Click me!");return(0,u.jsx)("button",{onClick:()=>t("You clicked!"),children:e})}}}]);
